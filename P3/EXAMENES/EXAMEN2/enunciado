@@ -1,0 +1,7 @@
+Se pide modificar la solución al problema de múltiples productores y consumidores realizada en clase utilizando directivas MPI, de forma que:
+
+    El número de productores sea 3 (y que pueda variar fácilmente).
+    El número de consumidores sea 2, de forma que:
+        Habrá un consumidor que solo pueda consumir los valores pares.
+        El otro consumidor solo podrá consumir los valores impares.
+
